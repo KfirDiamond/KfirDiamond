@@ -1,16 +1,19 @@
-## Hi there 👋
+😎 I'm Kfir... Diamond Kfir 
+🎯 Watch out! There's a Data Analyst/Scientist in Training out there
+🧑‍🎓 Student for Industrial Engineering & Management
+🅰 Dean's list, cause he ain't playing no games
+✨ Specializing in Data
+👨🏻‍🍳 cooking another ML model project
+💪 Getting myself ready for my future Data Analyst/Scientist job!
 
-<!--
-**KfirDiamond/KfirDiamond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚔ Technical armory:
 
-Here are some ideas to get you started:
+🐍 Python
+🗄️ SQL 
+📒 Jupyter lab
+🏴‍☠️ R
+📈 Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Questions? advices? LMK!
+📬 Kfir.diamond@gmail.com
+👨🏻‍💻 https://www.linkedin.com/in/kfir-diamond-631571266/
