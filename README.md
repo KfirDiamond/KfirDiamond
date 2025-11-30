@@ -3,7 +3,7 @@
 🎓 Student for Industrial Engineering & Management
 🅰 Dean's list: cause he ain't playing no games
 ✨ Specializing in Data
-👨🏻‍🍳 Cooking another ML project
+👨🏻‍🍳 Hungry? Another ML project is cooking
 💪 Getting myself ready for my future Data Analyst/Scientist job!
 
 ⚔ Technical armory:
@@ -13,6 +13,6 @@
 📒 Jupyter lab - try not to dab
 📈 Michrosoft Excel - what else should I tell?
 
-Questions? advices? LMK! \
+Questions? Advices? LMK! \
 📬 Kfir.diamond@gmail.com \
 👨🏻‍💻 https://www.linkedin.com/in/kfir-diamond-631571266/
