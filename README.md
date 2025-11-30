@@ -1,18 +1,17 @@
 😎 I'm Kfir... Diamond Kfir 
 🎯 Watch out! There's a Data Analyst/Scientist in Training out there
-🧑‍🎓 Student for Industrial Engineering & Management
-🅰 Dean's list, cause he ain't playing no games
+🎓 Student for Industrial Engineering & Management
+🅰 Dean's list: cause he ain't playing no games
 ✨ Specializing in Data
-👨🏻‍🍳 cooking another ML model project
+👨🏻‍🍳 Cooking another ML project
 💪 Getting myself ready for my future Data Analyst/Scientist job!
 
 ⚔ Technical armory:
 
-🐍 Python
-🗄️ SQL 
-📒 Jupyter lab
-🏴‍☠️ R
-📈 Excel
+🐍 Python - for high venomous tone
+🗄️ SQL - you guessed it well!
+📒 Jupyter lab - try not to dab
+📈 Michrosoft Excel - what else should I tell?
 
 Questions? advices? LMK! \
 📬 Kfir.diamond@gmail.com \
