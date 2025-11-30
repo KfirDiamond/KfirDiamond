@@ -15,5 +15,5 @@
 📈 Excel
 
 Questions? advices? LMK!
-📬 Kfir.diamond@gmail.com
+📬 Kfir.diamond@gmail.com \
 👨🏻‍💻 https://www.linkedin.com/in/kfir-diamond-631571266/
