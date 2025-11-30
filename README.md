@@ -14,6 +14,6 @@
 🏴‍☠️ R
 📈 Excel
 
-Questions? advices? LMK!
+Questions? advices? LMK! \
 📬 Kfir.diamond@gmail.com \
 👨🏻‍💻 https://www.linkedin.com/in/kfir-diamond-631571266/
