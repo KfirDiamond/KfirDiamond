@@ -1,9 +1,9 @@
-😎 I'm Kfir... Diamond Kfir 
-🎯 Watch out! There's a Data Analyst/Scientist in Training out there
-🎓 Student for Industrial Engineering & Management
-🅰 Dean's list: cause he ain't playing no games
-✨ Specializing in Data
-👨🏻‍🍳 Hungry? Another ML project is cooking
+😎 I'm Kfir... Diamond Kfir \
+🎯 Watch out! There's a Data Analyst/Scientist in Training out there \
+🎓 Student for Industrial Engineering & Management \
+🅰 Dean's list: cause he ain't playing no games \
+✨ Specializing in Data \
+👨🏻‍🍳 Hungry? Another ML project is cooking \
 💪 Getting myself ready for my future Data Analyst/Scientist job!
 
 ⚔ Technical armory:
