@@ -1,6 +1,6 @@
 😎 I'm Kfir... Diamond Kfir \
 🎯 Watch out! There's a Data Analyst/Scientist in Training out there \
-🎓 Student of Industrial Engineering & Management \
+🎓 Industrial Engineering & Management student\
 🅰 Dean's list: cause he ain't playing no games \
 ✨ Specializing in Data \
 👨🏻‍🍳 Hungry? Another ML project is cooking \
