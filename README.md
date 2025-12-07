@@ -4,7 +4,7 @@
 🅰 Dean's list; cause he ain't playing no games \
 ✨ Specializing in Data \
 👨🏻‍🍳 Hungry? Another ML project is cooking \
-💪 Getting myself ready for my future Data Analyst/Scientist job!
+
 
 ⚔ Technical armory:
 
